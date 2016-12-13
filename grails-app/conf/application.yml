@@ -2,7 +2,7 @@
 grails:
     profile: web-plugin
     codegen:
-        defaultPackage: openapi.client
+        defaultPackage: com.qiyestore.grails.plugin.openapi.client
     spring:
         transactionManagement:
             proxies: false

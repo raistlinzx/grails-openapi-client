@@ -1,4 +1,4 @@
-package openapi.client
+package com.qiyestore.grails.plugin
 
 class OpenapiClientGrailsPlugin {
     def groupId = "com.qiyestore.grails.plugin"

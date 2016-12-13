@@ -1,4 +1,4 @@
-package openapi.client
+package com.qiyestore.grails.plugin.openapi.client
 
 import grails.boot.*
 import grails.boot.config.GrailsAutoConfiguration
